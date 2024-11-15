@@ -1,4 +1,4 @@
-# Study Tracker - README
+# Study Tracker
 
 ## Descrição
 
