@@ -133,11 +133,11 @@ Os estilos são definidos usando `StyleSheet.create`, proporcionando uma aparên
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/study-tracker.git
+   git clone https://github.com/LeoRVergani/Project-Study-App.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd study-tracker
+   cd Project-Study-App
    ```
 3. Instale as dependências:
    ```bash
